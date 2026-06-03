@@ -4,7 +4,7 @@ A collection of unique, creative programs. built to learn, experiment, and innov
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1) 🖥️ Process State Simulator
 A C program that simulates how an operating system manages process state transitions in real time — without freezing the program while displaying output, just like a real OS!
---
+
 📌 About the Project
 In an operating system, every process goes through a series of states during its lifetime. This program demonstrates those state transitions interactively. You can press any key at any time to check the current state of the running process — the process keeps moving in the background, just like real OS scheduling.
 ---
