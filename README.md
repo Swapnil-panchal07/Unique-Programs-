@@ -15,8 +15,8 @@ Run the program
 3. Watch the process complete all states and terminate
 ---
 💡 Key Concepts Demonstrated
-Process lifecycle in operating systems
-Non-blocking input using `kbhit()`
-State machine implementation using `enum` in C
-Real-time simulation without halting program execution
+1. Process lifecycle in operating systems
+2. Non-blocking input using `kbhit()`
+3. State machine implementation using `enum` in C
+4. Real-time simulation without halting program execution
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
